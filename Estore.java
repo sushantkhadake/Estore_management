@@ -5,7 +5,7 @@ public class Estore {
 
     private static final String url = "jdbc:mysql://localhost:3306/data";
     private static final String username = "root";
-    private static final String password = "sush1234";
+    private static final String password = "*******";
 
     // Variables
     private static int id;
