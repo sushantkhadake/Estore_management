@@ -15,7 +15,7 @@ public class Estore {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Welcome to Simple E-Store Management System");
+        System.out.println("Welcome to E-Store Management System");
 
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
